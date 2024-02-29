@@ -1,2 +1,2 @@
 # Web_Browser
-This is my first project in Mobile Application Development. The project was written in Android Studio with Java
+This is my first mobile app project Written in Android Studio using Java. Also, this is my first repository)
